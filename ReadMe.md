@@ -8,8 +8,8 @@
 最新通知：https://t.me/yzcjd/443
 
 【订阅链接】<br>
-小火箭、V2Ray：在这里；<br>
-Clash：进频道看；<br>
-其它：自己转换。<br>
+<bold>小火箭、V2Ray：</bold>在这里；<br>
+<bold>Clash：<bold>进频道看；<br>
+<bold>其它：<bold>自己转换。<br>
 【订阅转换】 
 https://acl4ssr-sub.github.io/
