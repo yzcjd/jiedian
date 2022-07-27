@@ -8,7 +8,7 @@
 最新通知：https://t.me/yzcjd/443
 
 【订阅链接】<br>
-<bold>小火箭、V2Ray：</bold>在这里；<br>
+<h3 font-weight:bold>小火箭、V2Ray：<h3>在这里；<br>
 <bold>Clash：<bold>进频道看；<br>
 <bold>其它：<bold>自己转换。<br>
 【订阅转换】 
