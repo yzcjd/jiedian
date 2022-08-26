@@ -1,6 +1,6 @@
 </br>
-<h1 strong>[TG节点频道]([https://t.me/yzcjd](https://t.me/yzc020)) </h1>
-<h1 strong>[TG资源频道]([https://t.me/yzc020](https://t.me/yzc020)) </h1>
+<h1 strong>[TG节点频道](https://t.me/yzc020) </h1>
+<h1 strong>[TG资源频道](https://t.me/yzc020) </h1>
 
 <h2 strong>随缘更新。[交流群](https://t.me/yzcjdjlq) </h2>
 
