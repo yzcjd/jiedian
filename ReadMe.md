@@ -1,19 +1,17 @@
 </br>
-<h1 strong>[TG节点频道](https://t.me/yzc020) </h1>
-<h1 strong>[TG资源频道](https://t.me/yzc020) </h1>
+### [TG节点频道](https://t.me/yzcjd)
 
-<h2 strong>随缘更新。[交流群](https://t.me/yzcjdjlq) </h2>
+### [TG资源频道](https://t.me/yzc020)
 
+### [交流群](https://t.me/yzcjdjlq)
 .
 
-<h3>【订阅链接】<h3>
+### 【订阅链接】
 .
-<h3>小火箭、V2Ray：在这里；</h3><br>
+##### 小火箭、V2Ray：在这里；
 
-<h3>Clash订阅：放在频道；</h3><br>
+##### Clash订阅：放在频道；
 
-<h3>其它：自己转换。</h3><br>
+##### 其它：自己转换。
 
-<h3 strong>【订阅转换】<h3>
-
-https://acl4ssr-sub.github.io/
+##### 订阅转换：https://acl4ssr-sub.github.io/
