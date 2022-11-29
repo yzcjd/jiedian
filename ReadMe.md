@@ -11,8 +11,4 @@
 .
 ##### 小火箭、V2Ray：在这里；
 
-##### Clash订阅：放在频道；
-
-##### 其它：自己转换。
-
-##### 订阅转换：https://acl4ssr-sub.github.io/
+##### 其它：自己转换：https://acl4ssr-sub.github.io/
