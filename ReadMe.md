@@ -1,13 +1,7 @@
 ## 此项目分享不续的机场订阅、无限流量的小鸡。
 
 ### [TG资源频道](https://t.me/yzc020)
-
-.
-
 ### [TG节点频道](https://t.me/yzcjd)
-
-.
-
 ### [交流群](https://t.me/yzcjdjlq)
 
 .
@@ -25,6 +19,7 @@ https://raw.githubusercontent.com/yzcjd/jiedian/main/%40yzcjd
 </details>
 
 <details>
+
 <summary>Clash 订阅</summary>
 
 ```
@@ -33,6 +28,7 @@ https://sub.id9.cc/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubus
 </details>
 
 <details>
+
 <summary>Surfboard、Surge 订阅</summary>
 
 ```
