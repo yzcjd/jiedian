@@ -6,9 +6,7 @@
 
 .
 
-### 【订阅链接】
-
-.
+### 【订阅链接】（点击展开）
 
 <details>
 <summary>小火箭、V2Ray 订阅，包含 Vless 节点</summary>
@@ -19,7 +17,6 @@ https://raw.githubusercontent.com/yzcjd/jiedian/main/%40yzcjd
 </details>
 
 <details>
-
 <summary>Clash 订阅</summary>
 
 ```
@@ -28,7 +25,6 @@ https://sub.id9.cc/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubus
 </details>
 
 <details>
-
 <summary>Surfboard、Surge 订阅</summary>
 
 ```
@@ -36,4 +32,4 @@ https://api.dler.io/sub?target=surfboard&url=https%3A%2F%2Fraw.githubusercontent
 ```
 </details>
 
-#### 其它自己转换：https://acl4ssr-sub.github.io/
+#### 订阅转换：https://acl4ssr-sub.github.io/
