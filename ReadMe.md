@@ -1,15 +1,13 @@
 ## 此项目分享不续的机场订阅、无限流量的小鸡。
 
-### [TG资源频道](https://t.me/yzc020)
-### [TG节点频道](https://t.me/yzcjd)
-### [交流群](https://t.me/yzcjdjlq)
+### [⭐️ TG 资源频道](https://t.me/yzc020) [⭐️ TG 节点频道](https://t.me/yzcjd)
 
 .
 
-### 【订阅链接】（单击展开，右侧复制）
+### ⭐️ 订阅链接（单击展开，右侧复制）
 
 <details>
-<summary>小火箭、V2Ray 订阅，包含 Vless 节点</summary>
+<summary>小火箭、V2Ray 订阅（包含 Vless 节点）</summary>
 
 ```
 https://raw.githubusercontent.com/yzcjd/jiedian/main/%40yzcjd
