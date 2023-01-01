@@ -1,6 +1,14 @@
 ## 此项目分享不续的机场订阅、无限流量的小鸡。
 
-### [TG节点频道](https://t.me/yzcjd) . . . [TG资源频道](https://t.me/yzc020) . . . [交流群](https://t.me/yzcjdjlq)
+### [TG资源频道](https://t.me/yzc020)
+
+.
+
+### [TG节点频道](https://t.me/yzcjd)
+
+.
+
+### [交流群](https://t.me/yzcjdjlq)
 
 .
 
@@ -9,7 +17,7 @@
 .
 
 <details>
-<summary>小火箭、V2Ray 订阅</summary>
+<summary>小火箭、V2Ray 订阅，包含 Vless 节点</summary>
 
 ```
 https://raw.githubusercontent.com/yzcjd/jiedian/main/%40yzcjd
@@ -32,4 +40,4 @@ https://api.dler.io/sub?target=surfboard&url=https%3A%2F%2Fraw.githubusercontent
 ```
 </details>
 
-#### 其它自己转换，会丢失vless节点：https://acl4ssr-sub.github.io/
+#### 其它自己转换：https://acl4ssr-sub.github.io/
