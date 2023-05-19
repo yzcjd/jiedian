@@ -34,8 +34,8 @@ https://api.dler.io/sub?target=surfboard&url=https%3A%2F%2Fraw.githubusercontent
 
 ### 推荐客户端：
 #### Windows：[WinXray](https://github.com/woohong666/win-xray)
-#### 安卓：[Surfboard](https://t.me/surfboardnews)
-#### 苹果、Mac：不知道
+#### Android：[Surfboard](https://t.me/surfboardnews)
+#### iOS、Mac：不知道
 
 .
 
