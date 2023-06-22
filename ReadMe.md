@@ -19,6 +19,7 @@ https://raw.githubusercontent.com/yzcjd/jiedian/main/%40yzcjd
 
 ```
 https://api.dler.io/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fjiedian%2Fmain%2F%2540yzcjd&config=https%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fproxy-rules%2Fmain%2Fclash.ini&filename=%E7%94%B5%E6%8A%A5%40yzcjd&emoji=true&list=false&udp=true&tfo=false&scv=true&fdn=true&sort=true
+
 ```
 </细节>
 
@@ -27,6 +28,7 @@ https://api.dler.io/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com
 
 ```
 https://api.dler.io/sub?target=surfboard&url=https%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fjiedian%2Fmain%2F%2540yzcjd&config=https%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fproxy-rules%2Fmain%2Fsurfboard.ini&filename=%E7%94%B5%E6%8A%A5%40yzcjd&emoji=true&list=false&udp=true&tfo=false&scv=true&fdn=true&sort=false
+
 ```
 </细节>
 
