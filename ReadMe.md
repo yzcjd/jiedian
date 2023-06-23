@@ -1,3 +1,4 @@
+## 随缘更新，可用或不可用~
 ### [⭐️ TG 资源频道](https://t.me/yzc020) [⭐️ TG 节点频道](https://t.me/yzcjd)
 
 .
