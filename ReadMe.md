@@ -22,7 +22,7 @@ https://api.dler.io/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com
 </details>
 
 <details>
-<summary> NekoBox、小火箭、V2Ray 订阅（包含 Vless 节点）</summary>
+<summary> NekoBox、V2Ray 、小火箭（包含 Vless、Hysteria节点）</summary>
 
 ```
 https://raw.githubusercontent.com/yzcjd/jiedian/main/%40yzcjd
@@ -40,8 +40,8 @@ https://api.dler.io/sub?target=surfboard&url=https%3A%2F%2Fraw.githubusercontent
 .
 
 ### 推荐客户端：
-#### Windows：[WinXray](https://github.com/woohong666/win-xray)
-#### Android：[Surfboard](https://t.me/surfboardnews)
+#### Windows：[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)、[NekoBox](https://github.com/MatsuriDayo/nekoray/releases)、[WinXray](https://github.com/woohong666/win-xray)
+#### Android：[Clash.Meta](https://play.google.com/store/apps/details?id=com.github.metacubex.clash.meta)、[Surfboard](https://t.me/surfboardnews)
 #### iOS、Mac：不知道
 
 .
