@@ -49,4 +49,4 @@ https://api.dler.io/sub?target=surfboard&url=https%3A%2F%2Fraw.githubusercontent
 
 ### 肥羊订阅转换：sub.v1.mk
 
-项目查看统计（23年10月起） 👀 ![](https://views.whatilearened.today/views/github/yzcjd/Pawdroid.svg)
+项目查看统计（2023.10起） 👀 ![](https://views.whatilearened.today/views/github/yzcjd/Pawdroid.svg)
