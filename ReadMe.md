@@ -45,7 +45,7 @@ https://api.dler.io/sub?target=surfboard&url=https%3A%2F%2Fraw.githubusercontent
 #### iOS、Mac：不知道
 
 .
-### [⭐️ 跳转另一项目（仅IPV6）](https://apps.apple.com/cn/app/%E5%9B%BD%E5%AE%B6%E5%8F%8D%E8%AF%88%E4%B8%AD%E5%BF%83/id1552823102)
+### [⭐️ 跳转另一项目（仅IPv6）](https://apps.apple.com/cn/app/%E5%9B%BD%E5%AE%B6%E5%8F%8D%E8%AF%88%E4%B8%AD%E5%BF%83/id1552823102)
 
 ### 肥羊订阅转换：sub.v1.mk
 
