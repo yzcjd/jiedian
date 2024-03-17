@@ -9,7 +9,7 @@
 <summary> Clash.Meta、ClashVerge 订阅（包含 Vless、Hysteria 节点）</summary>
 
 ```
-https://api.v1.mk/sub?target=clash&url=https%3A%2F%2Fghproxy.com%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fjiedian%2Fmain%2F%2540yzcjd&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fproxy-rules%2Fmain%2Fclash.ini&filename=%E7%94%B5%E6%8A%A5%40yzcjd&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true
+https://api.v1.mk/sub?target=clash&url=https%3A%2F%2Fghproxy.com%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fjiedian%2Fmain%2F%2540yzcjd&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fproxy-rules%2Fmain%2Fclash.ini&filename=%E7%94%B5%E6%8A%A5%40yzcjd
 ```
 </details>
 
@@ -17,7 +17,7 @@ https://api.v1.mk/sub?target=clash&url=https%3A%2F%2Fghproxy.com%2Fhttps%3A%2F%2
 <summary>Clash 订阅（包含 SSR 节点） </summary>
 
 ```
-https://api.dler.io/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fjiedian%2Fmain%2F%2540yzcjd&config=https%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fproxy-rules%2Fmain%2Fclash.ini&filename=%E7%94%B5%E6%8A%A5%40yzcjd&emoji=true&list=false&udp=true&tfo=false&scv=true&fdn=true&sort=true
+https://api.dler.io/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fjiedian%2Fmain%2F%2540yzcjd&config=https%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fproxy-rules%2Fmain%2Fclash.ini&filename=%E7%94%B5%E6%8A%A5%40yzcjd&emoji=true
 ```
 </details>
 
@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/yzcjd/jiedian/main/%40yzcjd
 <summary>Surfboard、Surge 订阅 </summary>
 
 ```
-https://api.dler.io/sub?target=surfboard&url=https%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fjiedian%2Fmain%2F%2540yzcjd&config=https%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fproxy-rules%2Fmain%2Fsurfboard.ini&filename=%E7%94%B5%E6%8A%A5%40yzcjd&emoji=true&list=false&udp=true&tfo=false&scv=true&fdn=true&sort=false
+https://api.dler.io/sub?target=surfboard&url=https%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fjiedian%2Fmain%2F%2540yzcjd&config=https%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fproxy-rules%2Fmain%2Fsurfboard.ini&filename=%E7%94%B5%E6%8A%A5%40yzcjd&emoji=true
 ```
 </details>
 
