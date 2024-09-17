@@ -38,15 +38,20 @@ https://api.dler.io/sub?target=surfboard&url=https%3A%2F%2Fraw.githubusercontent
 </details>
 
 .
+#### 肥羊订阅转换：sub.v1.mk ，https://ghproxy.com/ + "V2ray 订阅"
+.
 
 ### ⭐️ 推荐客户端：
 #### Windows（x64）：[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)、[NekoBox](https://github.com/MatsuriDayo/nekoray/releases)、[WinXray](https://github.com/woohong666/win-xray)
 #### Android（v8a）：[Clash.Meta](https://play.google.com/store/apps/details?id=com.github.metacubex.clash.meta)、[Surfboard](https://github.com/getsurfboard/surfboard/releases)
 #### iOS、Mac：不知道
-
 .
-### [⭐️ 跳转另一项目（仅IPv6）](https://apps.apple.com/cn/app/%E5%9B%BD%E5%AE%B6%E5%8F%8D%E8%AF%88%E4%B8%AD%E5%BF%83/id1552823102)
-
-### 肥羊订阅转换：sub.v1.mk
+.
+.
+#### 代理规则（ Clash 分流）
+https://github.com/yzcjd/proxy-rules
+#### 网站规则（黑白名单、去广告）
+https://github.com/yzcjd/website-rules
+#### [⭐️ 跳转另一项目（仅IPv6）](https://apps.apple.com/cn/app/%E5%9B%BD%E5%AE%B6%E5%8F%8D%E8%AF%88%E4%B8%AD%E5%BF%83/id1552823102)
 
 项目查看统计（2023.10起） 👀 ![](https://views.whatilearened.today/views/github/yzcjd/Pawdroid.svg)
