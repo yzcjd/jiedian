@@ -9,7 +9,7 @@
 <summary> Clash.Meta、ClashVerge 订阅（包含 Vless、Hysteria 节点）</summary>
 
 ```
-https://api.v1.mk/sub?target=clash&url=https%3A%2F%2Fghproxy.com%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fjiedian%2Fmain%2F%2540yzcjd&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fproxy-rules%2Fmain%2Fclash.ini&filename=%E7%94%B5%E6%8A%A5%40yzcjd
+https://api.v1.mk/sub?target=clash&url=https%3A%2F%2Fghfast.top%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fjiedian%2Fmain%2F%2540yzcjd&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fyzcjd%2Fproxy-rules%2Fmain%2Fclash.ini&filename=%E7%94%B5%E6%8A%A5%40yzcjd
 ```
 </details>
 
@@ -22,7 +22,7 @@ https://api.dler.io/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com
 </details>
 
 <details>
-<summary> NekoBox、V2Ray 、小火箭（包含 Vless、Hysteria节点）</summary>
+<summary> NekoBox、V2Ray 、小火箭（包含 Vless、Hysteria 节点）</summary>
 
 ```
 https://raw.githubusercontent.com/yzcjd/jiedian/main/%40yzcjd
@@ -52,6 +52,6 @@ https://api.dler.io/sub?target=surfboard&url=https%3A%2F%2Fraw.githubusercontent
 https://github.com/yzcjd/proxy-rules
 #### 网站规则（黑白名单、去广告）
 https://github.com/yzcjd/website-rules
-#### [⭐️ 跳转另一项目（仅IPv6）](https://apps.apple.com/cn/app/%E5%9B%BD%E5%AE%B6%E5%8F%8D%E8%AF%88%E4%B8%AD%E5%BF%83/id1552823102)
+#### [⭐️ 跳转另一项目（仅 IPv6）](https://apps.apple.com/cn/app/%E5%9B%BD%E5%AE%B6%E5%8F%8D%E8%AF%88%E4%B8%AD%E5%BF%83/id1552823102)
 
-项目查看统计（2023.10起） 👀 ![](https://views.whatilearened.today/views/github/yzcjd/Pawdroid.svg)
+ 项目查看统计（2023.10 起） 👀 ![](https://views.whatilearened.today/views/github/yzcjd/Pawdroid.svg)
